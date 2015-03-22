@@ -1,0 +1,4 @@
+/Users/qudusanimashaun/Downloads/Parse-Starter-Project-1.8.4 2/ParseStarterProject/build/intermediates/classes/debug
+/Users/qudusanimashaun/Downloads/Parse-Starter-Project-1.8.4 2/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-2e086aa705d818194e582e3a9f13cee328f589a8.jar
+/Users/qudusanimashaun/Downloads/Parse-Starter-Project-1.8.4 2/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.8.4-580edd406b525583022f807128a0eada619e9617.jar
+/Users/qudusanimashaun/Downloads/Parse-Starter-Project-1.8.4 2/ParseStarterProject/build/intermediates/pre-dexed/debug/Parse-1.8.4-67c131f259d078425cf33dc789f68369fcf3a494.jar
